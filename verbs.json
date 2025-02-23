@@ -1,4 +1,4 @@
-    [
+[
         { base: "be", past: "was/were", participle: "been", ita: "essere" },
         { base: "become", past: "became", participle: "become", ita: "diventare" },
         { base: "begin", past: "began", participle: "begun", ita: "iniziare" },
@@ -48,4 +48,5 @@
         { base: "lay", past: "laid", participle: "laid", ita: "mettere" },
         { base: "lead", past: "led", participle: "led", ita: "condurre" },
         { base: "learn", past: "learned/learnt", participle: "learned/learnt", ita: "imparare" }
-     ]
+]
+
